@@ -26,7 +26,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/agichimu/Customer-Service-Portal-Manual.git',
+          editUrl: 'https://github.com/agichimu/Helb-Communications-Portal-Manual.git',
           routeBasePath: '/',
         },
         blog: false, // Disable blog plugin
@@ -42,26 +42,16 @@ const config = {
       ({
         navbar: {
           logo: {
-            alt: 'svg',
-            src: 'img/skyworld-logo.svg',
+            alt: 'png',
+            src: 'img/helb-logo.png',
           },
           items: [
             {
               type: 'docSidebar',
               sidebarId: 'customTutorialSidebar',
               position: 'left',
-              label: 'Customer Service Portal',
+              label: 'Helb-Communications-Portal-Manual',
             },
-
-            /*{
-              label: 'Download as Word',
-              href: 'static/files/Customer-service-user-manual.docx.docx', // Ensure the file path is correct
-              position: 'right',
-              target: '_blank', // Opens in a new tab
-              download: 'Customer-service-user-manual.docx.docx', // Forces the download
-            }*/
-
-
           ],
         },
         prism: {

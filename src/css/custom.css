@@ -1,21 +1,58 @@
+/* Light Mode Styles */
+[data-theme='light'] {
+  --ifm-color-primary: #1f7536; /* Main primary color - green */
+  --ifm-color-primary-dark: #1a602f; /* Darker complementary color */
+  --ifm-color-primary-darker: #164f28; /* Dark shade */
+  --ifm-color-primary-darkest: #124320; /* Deep green shade */
+  --ifm-color-primary-light: #4fae6f; /* Light complementary color */
+  --ifm-color-primary-lighter: #80d0a1; /* Light green shade */
+  --ifm-color-primary-lightest: #a8e3c4; /* Lightest complementary color */
+
+  --docusaurus-highlighted-code-line-bg: rgba(48, 51, 60, 0.2); /* Highlight for code lines */
+
+  background-color: #ffffff; /* Light background for light mode */
+  color: #333333; /* Dark text color for contrast */
+
+  /* Navbar customization for light mode */
+  --ifm-navbar-background-color: #ffffff; /* Light background for navbar */
+  --ifm-navbar-link-color: #333333; /* Dark color for navbar links */
+  --ifm-navbar-link-hover-color: #1f7536; /* Green for hovered links */
+  --ifm-navbar-link-active-color: #4fae6f; /* Lighter green for active links */
+}
+
 /* Dark Mode Styles */
 [data-theme='dark'] {
-  --ifm-color-primary: #2596be; /* Main primary color */
-  --ifm-color-primary-dark: #207293; /* Darker complementary color */
-  --ifm-color-primary-darker: #185b75; /* Dark shade */
-  --ifm-color-primary-darkest: #134b5e; /* Deep blue shade */
-  --ifm-color-primary-light: #a9d6e8; /* Light complementary color */
-  --ifm-color-primary-lighter: #6dbfdd; /* Light blue shade */
-  --ifm-color-primary-lightest: #e4f3f9; /* Lightest complementary color */
+  --ifm-color-primary: #3a9e5b; /* Adjusted green for better visibility in dark mode */
+  --ifm-color-primary-dark: #328d4d; /* Darker complementary color */
+  --ifm-color-primary-darker: #28713a; /* Darker shade */
+  --ifm-color-primary-darkest: #1f5b2a; /* Deep green shade */
+  --ifm-color-primary-light: #7ec67e; /* Lighter complementary color */
+  --ifm-color-primary-lighter: #a4e4a4; /* Light green shade */
+  --ifm-color-primary-lightest: #d0f3d0; /* Lightest complementary color */
+
   --docusaurus-highlighted-code-line-bg: rgba(48, 51, 60, 0.2); /* Highlight for code lines */
+
   background-color: #030610; /* Very dark background for dark mode */
   color: #e4f3f9; /* Light text color for contrast */
 
   /* Navbar customization for dark mode */
   --ifm-navbar-background-color: #030610; /* Dark background for navbar */
   --ifm-navbar-link-color: #e4f3f9; /* Light color for navbar links */
-  --ifm-navbar-link-hover-color: #2596be; /* Logo blue color for hovered links */
-  --ifm-navbar-link-active-color: #a9d6e8; /* Lighter blue for active links */
+  --ifm-navbar-link-hover-color: #3a9e5b; /* Green for hovered links */
+  --ifm-navbar-link-active-color: #7ec67e; /* Lighter green for active links */
+}
+
+/* Customize Navbar Links in Light Mode */
+[data-theme='light'] .navbar__link {
+  color: var(--ifm-navbar-link-color);
+}
+
+[data-theme='light'] .navbar__link:hover {
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+[data-theme='light'] .navbar__link--active {
+  color: var(--ifm-navbar-link-active-color);
 }
 
 /* Customize Navbar Links in Dark Mode */

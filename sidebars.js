@@ -1,8 +1,8 @@
 const sidebars = {
   customTutorialSidebar: [
     'Customer-Service-Portal-Manual/First-time-login',
+    'Customer-Service-Portal-Manual/Home',
 
-    //'Customer-Service-Portal-Manual/Subsequent-Log-In',
     /*{
       type: 'category',
       label: 'Tickets',
