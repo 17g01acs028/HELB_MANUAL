@@ -67,3 +67,8 @@
 [data-theme='dark'] .navbar__link--active {
   color: var(--ifm-navbar-link-active-color);
 }
+
+.skyworld-logo {
+  height: 5px; /* Adjust the height as needed */
+  vertical-align: middle;
+}

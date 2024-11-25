@@ -58,7 +58,21 @@ const config = {
           theme: prismThemes.github,
           darkTheme: prismThemes.dracula,
         },
-      }),
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: true,
+          respectPrefersColorScheme: false,
+        },
+        footer: {
+          // Combine footer configurations for clarity:
+          logo: {
+            alt: 'Skyworld Logo',
+            src: 'img/skyworld-logo.svg',
+          },
+          copyright: `Copyright © ${new Date().getFullYear()} Powered by Sky World Limited.`,
+        },
+      })
+
 };
 
 export default config;
