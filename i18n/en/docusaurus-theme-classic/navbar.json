@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "svg",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Members-Portal": {
+    "message": "Members-Portal",
+    "description": "Navbar item with label Members-Portal"
+  }
+}

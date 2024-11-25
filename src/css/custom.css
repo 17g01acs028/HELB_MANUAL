@@ -1,0 +1,32 @@
+/* Dark Mode Styles */
+[data-theme='dark'] {
+  --ifm-color-primary: #2596be; /* Main primary color */
+  --ifm-color-primary-dark: #207293; /* Darker complementary color */
+  --ifm-color-primary-darker: #185b75; /* Dark shade */
+  --ifm-color-primary-darkest: #134b5e; /* Deep blue shade */
+  --ifm-color-primary-light: #a9d6e8; /* Light complementary color */
+  --ifm-color-primary-lighter: #6dbfdd; /* Light blue shade */
+  --ifm-color-primary-lightest: #e4f3f9; /* Lightest complementary color */
+  --docusaurus-highlighted-code-line-bg: rgba(48, 51, 60, 0.2); /* Highlight for code lines */
+  background-color: #030610; /* Very dark background for dark mode */
+  color: #e4f3f9; /* Light text color for contrast */
+
+  /* Navbar customization for dark mode */
+  --ifm-navbar-background-color: #030610; /* Dark background for navbar */
+  --ifm-navbar-link-color: #e4f3f9; /* Light color for navbar links */
+  --ifm-navbar-link-hover-color: #2596be; /* Logo blue color for hovered links */
+  --ifm-navbar-link-active-color: #a9d6e8; /* Lighter blue for active links */
+}
+
+/* Customize Navbar Links in Dark Mode */
+[data-theme='dark'] .navbar__link {
+  color: var(--ifm-navbar-link-color);
+}
+
+[data-theme='dark'] .navbar__link:hover {
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+[data-theme='dark'] .navbar__link--active {
+  color: var(--ifm-navbar-link-active-color);
+}
