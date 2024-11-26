@@ -44,6 +44,9 @@ const config = {
           logo: {
             alt: 'png',
             src: 'img/helb-logo.png',
+            target: '_self',
+            width: 35,
+            height: 35,
           },
           items: [
             {
@@ -52,6 +55,7 @@ const config = {
               position: 'left',
               label: 'Helb-Communications-Portal-Manual',
             },
+
           ],
         },
         prism: {
@@ -64,11 +68,11 @@ const config = {
           respectPrefersColorScheme: false,
         },
         footer: {
-          // Combine footer configurations for clarity:
-          logo: {
-            alt: 'Skyworld Logo',
-            src: 'img/skyworld-logo.svg',
-          },
+          // // Combine footer configurations for clarity:
+          // logo: {
+          //   alt: 'Skyworld Logo',
+          //   src: 'img/skyworld-logo.svg',
+          // },
           copyright: `Copyright © ${new Date().getFullYear()} Powered by Sky World Limited.`,
         },
       })
