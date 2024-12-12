@@ -10,6 +10,15 @@ const sidebars = {
         'Customer-Service-Portal-Manual/Contact-Groups',
       ],
     },
+    {
+      type: 'category',
+      label: 'Finance',
+      items: [
+        'Customer-Service-Portal-Manual/Cost-Center_List',
+        'Customer-Service-Portal-Manual/Financial-Years',
+
+      ],
+    },
   ],
 };
 export default sidebars;
