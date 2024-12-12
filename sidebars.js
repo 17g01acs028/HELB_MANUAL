@@ -8,6 +8,8 @@ const sidebars = {
       label: 'Messaging',
       items: [
         'Customer-Service-Portal-Manual/Contact-Groups',
+         'Customer-Service-Portal-Manual/Contacts',
+          'Customer-Service-Portal-Manual/Dnd-Register'
       ],
     },
     {
