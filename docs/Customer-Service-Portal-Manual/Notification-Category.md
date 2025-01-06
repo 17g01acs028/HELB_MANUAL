@@ -27,5 +27,21 @@ The Notification Categories section helps you organize and manage different type
     - **Status Description**: Provide a short explanation of the status (e.g., "Active - Currently in use" or "Inactive - Not in use").
    
     - **Click Save** to create the new notification category.
+## How to Update a Notification Category
+
+1. **Locate the Notification Category**:
+   - Navigate to the **Notification Categories List** view in the portal.
+   - Find the desired Notification Category by scrolling or using the search functionality.
+
+2. **Access the Edit Interface**:
+   - Double-click the Notification Category's row or click the three-dot icon in the relevant cell.
+![edit-notification-categories.png](..%2F..%2Fstatic%2Fimg%2Fedit-notification-categories.png)
+3. **Edit Notification Category Details**:
+   - The edit interface displays two views:
+      - **Notification Category Details**: View the current details.
+      - **Edit Notification Category**: Modify fields that can be updated, such as the code, name, description, or status.
+![edit-notification-category-form.png](..%2F..%2Fstatic%2Fimg%2Fedit-notification-category-form.png)
+4. **Save Changes**:
+   - Ensure all modifications are correct, then click **Update** to apply the changes.
 
 ---

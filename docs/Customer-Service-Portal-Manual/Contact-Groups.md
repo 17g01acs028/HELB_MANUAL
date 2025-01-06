@@ -21,3 +21,23 @@
 
 3. Click **Save** to create the new contact group.
 
+## How to Update a Contact Group
+
+1. **Locate the Contact Group**:
+    - Navigate to the **Contact Group List** view in the portal.
+    - Find the desired Contact Group by scrolling or using the search functionality.
+
+2. **Access the Edit Interface**:
+    - Double-click the Contact Group's row or click the three-dot icon in the relevant cell.
+
+![contact-group-update-list-click.png](..%2F..%2Fstatic%2Fimg%2Fcontact-group-update-list-click.png)
+
+4. **Edit Contact Group Details**:
+    - The edit interface displays two views:
+        - **Contact Group Details**: View the current details.
+        - **Edit Contact Group**: Modify fields that can be updated, such as the name, description, or status.
+
+![contact-group-update-form.png](..%2F..%2Fstatic%2Fimg%2Fcontact-group-update-form.png)
+
+4. **Save Changes**:
+    - Ensure all modifications are correct, then click **Update** to apply the changes.
