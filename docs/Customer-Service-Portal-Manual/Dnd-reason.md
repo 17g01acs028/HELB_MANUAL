@@ -1,7 +1,6 @@
 # DND Reasons
 
 This section outlines the steps for managing DND reasons, which are crucial for standardizing and classifying entries in the DND register.
-
 ## Overview
 
 DND (Do Not Disturb) reasons allow you to define and categorize the reasons why contacts are added to the DND register. Proper management ensures streamlined communication workflows.

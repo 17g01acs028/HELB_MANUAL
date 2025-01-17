@@ -2,6 +2,8 @@
 
 This section provides a step-by-step guide for triggering a survey workflow.
 
+![img_1.png](img_1.png)
+
 ---
 
 ## How to Trigger a Survey
@@ -25,6 +27,8 @@ Provide the necessary information to set up the survey trigger:
   - **Low**
 - **Schedule Survey?**: Enable or disable the survey scheduling feature.
 
+![img_2.png](img_2.png)
+
 ### Step 3: Add Recipient Details
 
 Define the recipients for the survey:
@@ -33,8 +37,6 @@ Define the recipients for the survey:
 - **Override DND?**: Specify whether to bypass DND (Do Not Disturb) restrictions.
 
 ### Step 4: Submit the Survey Trigger
-- Click **Submit** to trigger the survey.
+- Click **Trigger Survey** to trigger the survey.
 
 ---
-
-This process ensures a streamlined and efficient setup for distributing surveys to the desired recipients.

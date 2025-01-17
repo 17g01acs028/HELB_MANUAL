@@ -37,12 +37,16 @@ The Survey Notification Categories section helps you organize and manage differe
 2. **Access the Edit Interface**:
    - Double-click the Survey Notification Category's row or click the three-dot icon in the relevant cell.
 
+![edit-notification-categories.png](..%2F..%2Fstatic%2Fimg%2Fedit-notification-categories.png)
+
 3. **Edit Survey Notification Category Details**:
    - The edit interface displays two views:
       - **Survey Notification Category Details**: View the current details.
       - **Edit Survey Notification Category**: Modify fields that can be updated, such as the code, name, description, or status.
 
+![edit-notification-category-form.png](..%2F..%2Fstatic%2Fimg%2Fedit-notification-category-form.png)
+
 4. **Save Changes**:
-   - Ensure all modifications are correct, then click **Save** to apply the changes.
+   - Ensure all modifications are correct, then click **Update** to apply the changes.
 
 ---

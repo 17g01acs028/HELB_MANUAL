@@ -2,6 +2,8 @@
 
 This section provides a guide for adding and managing survey questionnaires.
 
+![survey-q-list.png](..%2F..%2Fstatic%2Fimg%2Fsurvey-q-list.png)
+
 ---
 
 ## Adding a Survey Questionnaire
@@ -25,6 +27,8 @@ Complete the following fields:
 - **Max Response Count***: Set the maximum allowed responses for the survey.
 - **Response Interval***: Specify the time interval between responses.
 
+![survey-q-details-form.png](..%2F..%2Fstatic%2Fimg%2Fsurvey-q-details-form.png)
+
 ### Step 3: Add Questions in the **Questions Table**
 
 Manage the survey questions as follows:
@@ -33,8 +37,10 @@ Manage the survey questions as follows:
 - **Remove Questions**: Delete any unwanted questions.
 - **Link Questions**: Define the sequence of questions or apply conditions to display questions based on specific criteria.
 
+![survey-dnd-ations.png](..%2F..%2Fstatic%2Fimg%2Fsurvey-dnd-ations.png)
+
 ### Step 4: Save the Questionnaire
-- Once all fields and questions are set, click **Save** to finalize the survey questionnaire.
+- Once all fields and questions are set, click **Save Questionnaire** to finalize the survey questionnaire.
 
 ---
 
@@ -48,13 +54,15 @@ To edit an existing questionnaire:
 ### Step 2: Select the Questionnaire to Edit
 - Locate the desired questionnaire and either:
     - Double-click on it.
-    - Click the three-dot icon next to it and select **Edit**.
+    - Click the edit icon.
+
+![survey-q-edit-form.png](..%2F..%2Fstatic%2Fimg%2Fsurvey-q-edit-form.png)
 
 ### Step 3: Update Details or Questions
-- Modify the necessary details in the **Details Tab** or update questions in the **Questions Table**.
+- Modify the necessary details in the **Edit Panel**.
 
 ### Step 4: Save Changes
-- Ensure all changes are accurate and click **Save** to apply them.
+- Ensure all changes are accurate and click **Save Question** to apply them.
 
 ---
 

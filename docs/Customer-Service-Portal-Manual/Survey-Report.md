@@ -33,21 +33,10 @@ The **Survey CSAT Report** focuses on **Customer Satisfaction** (CSAT) scores an
 - Detailed breakdown of satisfaction levels across responses.
 - Trends in customer satisfaction over time.
 
----
-
-## Generating Survey Reports
-
-1. **Navigate to the Report Section**:
-    - In the **Survey** menu, select either **Survey Report** or **Survey CSAT Report**.
-
-2. **Specify Filters (Optional)**:
-    - Apply filters such as survey name, date range, or status to refine the report.
-
-3. **Generate Report**:
-    - Click the **Generate Report** button.
-    - The report will be created and added to the Reports List.
+![img_4.png](img_4.png)
 
 ---
+
 
 ## Downloading Survey Reports
 
@@ -56,7 +45,9 @@ The **Survey CSAT Report** focuses on **Customer Satisfaction** (CSAT) scores an
 
 2. **Download the Survey Report**:
     - Locate the **Survey Report** or **Survey CSAT Report** in the list.
-    - Click the **Download** button to save it as an Excel file.
+    - Click the **Download** button to download it as an Excel file.
+
+![img_5.png](img_5.png)
 
 ---
 

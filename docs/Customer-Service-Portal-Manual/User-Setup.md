@@ -5,6 +5,8 @@
 1. **Retrieve User from Active Directory (AD)**:
     - Locate the user in the AD directory.
 
+![search-user-in-AD.png](..%2F..%2Fstatic%2Fimg%2Fsearch-user-in-AD.png)
+
 2. **Complete Required Fields**:
     - Fill in all mandatory fields.
     - Ensure no two users share the same primary phone number or email.

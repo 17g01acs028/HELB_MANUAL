@@ -5,8 +5,8 @@ const config = {
   title: 'Helb-Communications-Portal-Manual',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://help-comms-portal.skyworld.co.ke',
+  baseUrl: '/doc/',
 
   // GitHub pages deployment config
   organizationName: 'agichimu',

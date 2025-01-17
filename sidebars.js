@@ -2,7 +2,6 @@ const sidebars = {
   customTutorialSidebar: [
     'Customer-Service-Portal-Manual/First-time-login',
     'Customer-Service-Portal-Manual/Home',
-
     {
       type: 'category',
       label: 'Users',
@@ -16,6 +15,7 @@ const sidebars = {
         'Customer-Service-Portal-Manual/Update-MFA',
       ]
     },
+    'Customer-Service-Portal-Manual/Application-Workflows',
     {
       type: 'category',
       label: 'Messaging',

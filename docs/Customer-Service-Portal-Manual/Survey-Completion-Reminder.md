@@ -2,6 +2,8 @@
 
 This section explains how to send reminders for survey completion to encourage participants to complete the survey.
 
+![img_3.png](img_3.png)
+
 ---
 
 ## How to Send a Completion Reminder
@@ -41,7 +43,7 @@ Define the content and context of the reminder:
 - **Schedule Message?**: Enable or disable scheduling for the reminder.
 
 ### Step 6: Save and Send
-- Click **Save** to finalize the setup and send the reminder.
+- Click **Send Completion Reminder** to finalize the setup and send the reminder.
 
 ---
 

@@ -2,6 +2,8 @@
 
 This section outlines the steps for managing **Survey DND Reasons**, which are essential for standardizing and classifying entries related to surveys in the DND register.
 
+![dnd-reason-list-s.png](..%2F..%2Fstatic%2Fimg%2Fdnd-reason-list-s.png)
+
 ## Overview
 
 Survey DND reasons help define and categorize why contacts are excluded from receiving survey-related communications. Proper management ensures compliance and streamlined survey workflows.
@@ -14,9 +16,11 @@ Survey DND reasons help define and categorize why contacts are excluded from rec
 2. **Click on "+ Add"**:
    - This opens the form to create a new survey-specific DND reason.
 
+![dnd-reason-add-a-s.png](..%2F..%2Fstatic%2Fimg%2Fdnd-reason-add-a-s.png)
+
 3. **Fill in the Required Fields**:
-   - **DND Reason Code**: Enter a unique identifier specifically for the survey-related reason (e.g., `SURV001`).
-   - **DND Reason**: Provide a clear and descriptive reason related to surveys (e.g., "Opted out of survey communications").
+
+   ![dnd-reason-add-s.png](..%2F..%2Fstatic%2Fimg%2Fdnd-reason-add-s.png)
 
 4. **Click Save**:
    - Save the new survey DND reason to finalize the entry.
@@ -30,10 +34,12 @@ Survey DND reasons help define and categorize why contacts are excluded from rec
 2. **Access the Edit Interface**:
    - Double-click the entry or click the three-dot menu next to the relevant row.
 
+![dnd-reason-action-s.png](..%2F..%2Fstatic%2Fimg%2Fdnd-reason-action-s.png)
+
 3. **Edit Survey DND Reason Details**:
    - Modify the following fields as needed:
-      - **DND Reason Code**: Update the unique identifier if required.
-      - **DND Reason**: Change or enhance the descriptive reason for survey-related exclusion.
+   
+![dnd-reason-update-s.png](..%2F..%2Fstatic%2Fimg%2Fdnd-reason-update-s.png)
 
 4. **Save Changes**:
-   - Ensure all modifications are accurate, then click **Save** to apply the changes.
+   - Ensure all modifications are accurate, then click **Update** to apply the changes.
