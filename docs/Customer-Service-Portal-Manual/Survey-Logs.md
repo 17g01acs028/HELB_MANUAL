@@ -2,6 +2,8 @@
 
 The **Survey Logs** section allows you to monitor survey activities, analyze responses, and evaluate survey performance.
 
+![alt text](image-6.png)
+
 ---
 
 ## How to View Survey Logs

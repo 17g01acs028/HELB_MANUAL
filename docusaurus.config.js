@@ -5,11 +5,11 @@ const config = {
   title: 'Helb-Communications-Portal-Manual',
 
   // Set the production url of your site here
-  url: 'https://help-comms-portal.skyworld.co.ke',
-  baseUrl: '/doc/',
+  url: 'https://helb-manual.co.ke',
+  baseUrl: '/',
 
   // GitHub pages deployment config
-  organizationName: 'agichimu',
+  organizationName: 'HELB',
   projectName: 'Helb-Communications-Portal-Manual',
 
   onBrokenLinks: 'ignore',
