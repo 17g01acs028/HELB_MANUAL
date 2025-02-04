@@ -18,7 +18,7 @@ slug: /
 
 ### Step 2: One Time Password (OTP) Verification
 
-1. After clicking **Login**, an OTP will be sent to your phone.
+1. After clicking **Login**, an OTP will be sent to your email.
 
    ![helb-otp-verification.png](../../static/img/helb-otp-verification.png)
 

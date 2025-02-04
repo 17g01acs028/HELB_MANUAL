@@ -1,7 +1,11 @@
 # Change Email
 
 ## Overview
-Admins can update a user's primary email address.
+Users with permission to change a user's primary email address.
+
+:::warning
+Please note that changing the user's email, which is used for OTP, will require you to ensure the new email is correct, as it will be used for OTP verification.
+:::
 
 ## Steps to Access and Change Email
 1. Navigate to **User Setup > User List**.

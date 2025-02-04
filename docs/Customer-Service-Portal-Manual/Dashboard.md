@@ -26,9 +26,7 @@ The **Delivery Report** card gives an overview of message deliveries for the sel
 #### View More Details
 Clicking the **View More** button provides more detailed information, including:
 
-1. **Donut Chart**: A graphical representation of the message delivery status (sent, delivered, failed, in queue).
-   
-2. **Detailed Table**: A breakdown of the message delivery data, including:
+1**Detailed Table**: A breakdown of the message delivery data, including:
 
 
 
@@ -52,7 +50,6 @@ Clicking the **View More** button opens a **Bar Chart** that compares the **mess
 Each SMS message is categorized by its **Notification Category**, which defines the purpose of the message. These categories might include campaign messages, alerts, or other types of notifications.
 
 ### Key Features:
-- **Donut Chart**: Displays the distribution of messages sent across different notification categories.
 - **Message Distribution**: Helps identify which notification categories (e.g., campaigns, alerts) generated the most messages during the selected period.
 
 

@@ -1,19 +1,23 @@
 # Change Status
 
 ## Overview
-Admins can update a user's account status (ACTIVE/INACTIVE) and provide details for the status change.
+Users with permission to change a user's account status (ACTIVE/INACTIVE) and provide details for the status change.
+
+:::note
+Please note that making a user INACTIVE will prevent them from accessing the system.
+:::
 
 ## Steps to Access and Change Status
 1. Navigate to **User Setup > User List**.
 2. Locate the user from the list:
     - **Double-click** the user, or
-    - Click the three-dot menu and select **Open**.
+    - Click the three-dot menu to **Open**.
 
 ![user-list-click.png](..%2F..%2Fstatic%2Fimg%2Fuser-list-click.png)
 
 3. In the user details view:
     - Go to the **Actions** panel.
-    - Select **Change Status**.
+    - Click **Change Status**.
 
 ![change-status-button.png](..%2F..%2Fstatic%2Fimg%2Fchange-status-button.png)
 

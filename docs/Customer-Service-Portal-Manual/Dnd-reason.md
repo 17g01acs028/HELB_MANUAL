@@ -8,9 +8,12 @@ DND (Do Not Disturb) reasons allow you to define and categorize the reasons why 
 ## How to Create a New DND Reason
 
 1. **Navigate to the DND Reasons Module**:
-    - Locate the module from the main portal menu.
+   To locate the module, you can either:
 
-2. **Click on "+ Add"**:
+- Use the **side** or **topbar** menu to find it.
+- Press **Ctrl + K** to open the search bar, then search for **DND Reason** (the search is not case-sensitive).
+
+3. **Click on "+ Add"**:
     - This opens the form to create a new DND reason.
 ![CreateDndReason.png](..%2F..%2Fstatic%2Fimg%2FCreateDndReason.png)
 3. **Fill in the Required Fields**:

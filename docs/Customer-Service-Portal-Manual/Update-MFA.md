@@ -1,13 +1,17 @@
 # Update MFA Mode
 
 ## Overview
-Admins can update a user's Multi-Factor Authentication (MFA) mode for enhanced security.
+Allowed to Users with permission to update a user's Multi-Factor Authentication (MFA) mode for enhanced security.
+
+:::warning
+Please note that the selected MFA mode will be used for OTP verification. Ensure that you can access the chosen mode to avoid losing access to your account.
+:::
 
 ## Steps to Access and Update MFA Mode
 1. Navigate to **User Setup > User List**.
 2. Locate the user from the list:
     - **Double-click** the user, or
-    - Click the three-dot menu and select **Open**.
+    - Click the three-dot menu to **Open**.
 
 ![user-list-click.png](..%2F..%2Fstatic%2Fimg%2Fuser-list-click.png)
 

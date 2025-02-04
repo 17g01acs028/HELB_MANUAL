@@ -11,12 +11,9 @@ Bulk SMS sending is organized into three distinct tabs:
    - Fill in the template with contact details, ensuring accuracy.
    - Upload the completed file and click **Send SMS**.
 
-   **Fields in the Template File**:
-   - **Template Variables**: Populate fields corresponding to the placeholders in the selected template (e.g., `{{Name}}`, `{{Amount}}`).
-   - **Contact Name**: Enter the recipient’s name.
-   - **Phone Number**: Enter the recipient’s phone number.
-   - **Schedule**: Set a future time for the SMS to be sent.
-   - **Override DND**: Optionally override the Do Not Disturb (DND) status, if permitted.
+   **Other Important Fields**:
+  - **Schedule**: Set a future time for the SMS to be sent.
+  - **Override DND**: Optionally override the Do Not Disturb (DND) status, This will send messages to People in DND list.
 
 
 2. **File-Based SMS Sending**:
@@ -25,9 +22,12 @@ Bulk SMS sending is organized into three distinct tabs:
       - **Contact Name**: The recipient’s name.
       - **Phone Number**: The recipient’s number.
       - **Message Content**: The message to be sent.
-      - **Schedule**: Set a future time for the SMS to be sent.
-      - **Override DND**: Optionally override the Do Not Disturb (DND) status, if permitted.
 
+   **Other Important Fields**:
+     - **Schedule**: Set a future time for the SMS to be sent.
+     - **Override DND**: Optionally override the Do Not Disturb (DND) status, if permitted.
+   
+ 
    - Once uploaded, proceed to send the SMS.
 
 3. **Direct SMS to Contacts or Groups**:
