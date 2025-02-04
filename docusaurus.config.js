@@ -6,7 +6,8 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://help-comms-portal.skyworld.co.ke',
-  baseUrl: '/doc/',
+  // baseUrl: '/doc/',
+   baseUrl: '/',
 
   // GitHub pages deployment config
   organizationName: 'HELB',
